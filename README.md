@@ -6,7 +6,7 @@
 - i knows the fundamentals of DSA..
 - 🌱 I’m currently building a FileSystem.
 
-- 👯 I’m currently collaborate to work with [testygo](https://in.search.yahoo.com/search?fr=mcafee&type=E210IN885G0&p=testygo)
+- 👯 I’m currently collaborate to work with [testygo](https://in.search.yahoo.com/search?fr=mcafee&type=E210IN885G0&p=testygo) startup.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pushkaraj1359](https://github.com/Pushkaraj1359)
 
