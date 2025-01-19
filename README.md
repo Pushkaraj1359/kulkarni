@@ -1,16 +1,16 @@
 <h1 align="center">Hi👋, My name @Pushkaraj Kulkarni</h1>
-<h3 align="center">👀 I’m interested in Web-Dev/Backend best practices </h3>
+<h3 align="center">👀 I’m interested in fullstack-Web-Dev/Devops best practices </h3>
 
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&pid=Api&P=0&h=180">
 
 - i knows the fundamentals of DSA..
 - 🌱 I’m currently building a FileSystem.
 
-- 👯 I’m currently collaborate to work with [testygo](https://in.search.yahoo.com/search?fr=mcafee&type=E210IN885G0&p=testygo) startup.
+- 💞️ I’m looking to collaborate on anything.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pushkaraj1359](https://github.com/Pushkaraj1359)
 
-- 💬 Ask me about **HTML , CSS , JAVASCRIPT, REACT , TYPESCRIPT , CORE-JAVA , Python ,  FUNDAMENTAILS OF DSA ect.**
+- 💬 Ask me about **HTML , CSS , JAVASCRIPT, REACT , Nodejs, Express , MongoDB ,  TYPESCRIPT , CORE-JAVA ,  FUNDAMENTAILS OF DSA ect.**
 
 - 📫 How to reach me **kulkarnipushkaraj61@gmail.com**
 
